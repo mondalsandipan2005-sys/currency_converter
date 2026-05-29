@@ -37,12 +37,14 @@ FlagsAPI
 <br>
 
 ⚙️ How It Works
-User enters an amount.
-Selects source currency.
-Selects target currency.
-Application fetches live exchange rates using API.
-Converted value is displayed instantly.
-Country flags update dynamically according to selected currencies.
+<ol>
+<li>User enters an amount.</li>
+<li>Selects source currency.</li>
+<li>Selects target currency.</li>
+<li>Application fetches live exchange rates using API.</li>
+<li>Converted value is displayed instantly.</li>
+<li>Country flags update dynamically according to selected currencies.</li>
+</ol>
 
 🌐 API Used
 <br>
@@ -69,18 +71,20 @@ OR run using VS Code Live Server.
 
 🧠 Concepts Practiced
 <br>
-DOM Manipulation
-<br>
-Async/Await
-<br>
-Fetch API
-<br>
-Event Handling
-<br>
-Dynamic UI Updates
-<br>
-JavaScript Objects
-<br>
-Responsive Web Design
-<br>
-API Integration
+<ul>
+<li>DOM Manipulation</li>
+
+<li>Async/Await</li>
+
+<li>Fetch API</li>
+
+<li>Event Handling</li>
+
+<li>Dynamic UI Updates</li>
+
+<li>JavaScript Objects</li>
+
+<li>Responsive Web Design</li>
+
+<li>API Integration</li>
+</ul>
